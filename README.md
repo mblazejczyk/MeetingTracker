@@ -61,6 +61,3 @@ MeetingTracker is a lightweight Swift-based iOS and watchOS application for trac
 ## Author & thanks
 Made by Mateusz Błażejczyk <br>
 Thanks to the idea of my thesis supervisor, Miłosz
-
-## License
-This project is licensed under the MIT License.
