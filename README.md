@@ -44,10 +44,7 @@ MeetingTracker is a lightweight Swift-based iOS and watchOS application for trac
 - Apple Watch with watchOS 10+
 
 ### Installation
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/MeetingTracker.git
-   ```
+1. Clone the repo
 2. Open `MeetingTracker.xcodeproj`
 3. Add needed permitions to MapKit and frameworks (LiveActivity)
 4. Run the app on your iPhone and Watch simulator/device
